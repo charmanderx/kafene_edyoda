@@ -17,7 +17,7 @@ const Home = () => {
           <a href="www.google.com" id="nav-links">
             Products
           </a>
-          <a href="www.google.cm" id="nav-links">
+          <a href="www.google.com" id="nav-links">
             Users
           </a>
         </div>
