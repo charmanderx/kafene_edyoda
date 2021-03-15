@@ -11,13 +11,13 @@ const Home = () => {
           <p id="heading">Kafene</p>
         </div>
         <div className="nav-right">
-          <a href="" id="nav-links">
+          <a href="www.google.com" id="nav-links">
             Orders
           </a>
-          <a href="" id="nav-links">
+          <a href="www.google.com" id="nav-links">
             Products
           </a>
-          <a href="" id="nav-links">
+          <a href="www.google.cm" id="nav-links">
             Users
           </a>
         </div>
